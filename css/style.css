@@ -203,7 +203,7 @@ p {
 .btn-vermas {
     color: var(--blanco);
     background-color: var(--negroPro);
-    font-size: 2rem;
+    font-size: 1.6rem;
     border-radius: 2rem;
     padding: 1rem 2rem;
     font-weight: bold;
