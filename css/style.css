@@ -55,6 +55,14 @@ h1,h2,h3 {
     text-align: center;
 }
 
+p {
+    text-align: center;
+}
+
+.btn-vermas--peq {
+    font-size: 1.6rem;
+}
+
 /* Header */
 .header {
     background-image: url(../img/banner-turmalina.jpg);
